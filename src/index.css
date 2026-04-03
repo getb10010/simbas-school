@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 206 66% 46%; 
+    --foreground: 0 0% 100%;
+  }
+
+  body {
+    /* Exact Simba Logo Brand Blue */
+    @apply bg-[#2A82C4] text-white antialiased selection:bg-yellow-500 selection:text-[#2A82C4] min-h-screen overflow-x-hidden font-sans fixed w-full h-full;
+  }
+  
+  #root {
+    @apply h-full overflow-y-auto overflow-x-hidden scroll-smooth;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-black/10 backdrop-blur-3xl border border-white/20 shadow-2xl;
+  }
+  .card-hover {
+    @apply hover:bg-black/20 hover:border-white/40 hover:shadow-[0_0_30px_rgba(255,255,255,0.15)] transition-all duration-500;
+  }
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-white to-yellow-200;
+  }
+}

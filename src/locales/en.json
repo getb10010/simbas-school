@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "about": "About Us",
+    "courses": "Courses",
+    "branches": "Branches",
+    "founder": "Founder",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "IDP IELTS Official Partner",
+    "title_primary": "Simba's",
+    "title_secondary": "School",
+    "tagline": "this is more than just a course",
+    "cta": "Enroll via WhatsApp",
+    "community": "Join SIMBA'S FAMILY"
+  },
+  "about": {
+    "title": "Why Choose Us?",
+    "stats": {
+      "partner": { "title": "IDP IELTS Partner", "desc": "Official in KZ" },
+      "harvard": { "title": "Harvard Alumni", "desc": "Global success" },
+      "insta": { "title": "10,900+ Students", "desc": "Successful alumni" },
+      "family": { "title": "SIMBA'S FAMILY", "desc": "Life-long community" }
+    }
+  },
+  "courses": {
+    "title": "Our Courses",
+    "desc": "Comprehensive English programs tailored to your goals.",
+    "items": [
+      { "title": "IELTS Preparation", "desc": "Mock tests, all 4 skills, IDP certified, target score strategies." },
+      { "title": "Beginner – Advanced", "desc": "From zero to confident speaking, structured levels." },
+      { "title": "Kids Courses", "desc": "Ages 6–12, games, songs, interactive activities." },
+      { "title": "Speaking Club", "desc": "Real dialogues, debates, group presentations." },
+      { "title": "Online Format", "desc": "Live interactive classes from anywhere." },
+      { "title": "Offline Format", "desc": "In modern classrooms across Turkistan." }
+    ]
+  },
+  "branches": {
+    "label": "LOCATIONS",
+    "title": "How to get to us",
+    "address_label": "ADDRESS",
+    "phone_label": "PHONE",
+    "hours_label": "HOURS",
+    "insta_label": "INSTAGRAM",
+    "hours_value": "09:00 to 20:00, Everyday",
+    "whatsapp_btn": "Write on WhatsApp",
+    "phone_btn": "Call us",
+    "map_btn": "Open in 2GIS",
+    "remote_title": "Remote Learning",
+    "remote_desc": "Not in Turkistan? No problem. We offer live interactive online classes from anywhere in the world.",
+    "remote_btn": "Online Format Available",
+    "names": ["Zhana Qala", "B. Sattarkhanov Ave.", "Tauke Khan"],
+    "addresses": ["Turkistan, Zhana Qala", "Turkistan, B. Sattarkhanov Avenue", "Turkistan, Tauke Khan"]
+  },
+  "pricing": {
+    "title_primary": "Start Learning",
+    "title_secondary": "Today",
+    "desc": "Whether it's IELTS, General English, or Kids courses, we guarantee the best approach. Contact us to book your spot!",
+    "p1": "Target Score Guaranteed",
+    "p2": "First Lesson is FREE",
+    "p3": "For all ages & levels",
+    "btn": "Get Prices via WhatsApp"
+  },
+  "founder": {
+    "section_title": "OUR FOUNDER",
+    "name": "Symbat Paya",
+    "role": "Founder of Simba's School & Official IELTS Partner",
+    "bio1": "Hi, I'm Symbat! When I founded Simba's School, my dream was to bring world-class English education to the youth of Turkistan. I wanted to build more than a language center—I wanted to create a community of global thinkers.",
+    "bio2": "As an official IELTS partner, my personal mission is to help you break barriers and achieve your highest goals on the global stage. Welcome to our family!",
+    "achievements": {
+      "title": "Achievements & Social Impact:",
+      "a1": "Founder of @simbas_cos",
+      "a2": "Almaty Marathon Ambassador",
+      "a3": "Eco-activist at @eco_turkestan",
+      "a4": "Affiliated with TEDxZhenys.Park",
+      "a5": "Active in Charity & Child Support"
+    },
+    "insta_btn": "Follow on Instagram"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
